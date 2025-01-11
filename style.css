@@ -1,10 +1,4 @@
-
-  .d-flex {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .font-size{
+.font-size{
     font-size: 24px;
   }
   .nav-line{
